@@ -34,7 +34,7 @@ Xây dựng mô hình dự báo khách hàng có khả năng rời bỏ:
 Dashboard được thiết kế để cung cấp cái nhìn toàn diện cho nhà quản lý:
 * **Trang 1 - Overview:** Tổng quan số lượng khách hàng, tỷ lệ Churn tổng thể và theo loại hợp đồng.
 * **Trang 2 - Customer Behavior:** Phân tích sâu hành vi khách hàng dựa trên các dịch vụ gia tăng như `Online Security`, `Tech Support`.
-* **Slicers:** Cho phép lọc dữ liệu theo `Senior Citizen`, `Partner`, `Dependents` để xem chi tiết từng phân khúc.
+* **Slicers:** Cho phép lọc dữ liệu theo `Senior Citizen`, `Gender`, `Dependents` để xem chi tiết từng phân khúc.
 
 <img width="1559" height="753" alt="image" src="https://github.com/user-attachments/assets/6ea79076-1c47-467b-bc9f-a75ccb9a2d12" />
 
